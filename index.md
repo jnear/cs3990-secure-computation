@@ -1,9 +1,9 @@
 ---
-title: CS 295/395 Secure Distributed Computation
+title: CS 3990/5990 Secure Distributed Computation
 layout: default
 ---
 
-# UVM CS 295/395: Secure Distributed Computation (Fall 2022)
+# UVM CS 3990/5990: Secure Distributed Computation (Fall 2023)
 
   * [Course Description](#course-description)
   * [Administrative](#administrative)
@@ -57,25 +57,27 @@ By the end of this course, you will be able to:
 
 ## Administrative
 
-- **Lecture**: Monday, Wednesday, Friday, 10:50am-11:40am in Marsh Life Science 105
+- **Lecture**: Monday, Wednesday, Friday, 10:50am-11:40am in Perkins 003
 - **Instructor**: Joe Near (jnear at uvm dot edu)
+- **Graduate Teaching Assistant**: Prianka Bhattacharjee
 - **Office hours**: 
   - **Joe Near** (instructor): Mondays and Fridays, 9:30am-10:30am, and by appointment; Innovation Hall E458 (or MS Teams)
 
 ## Resources
 
 - **Course textbooks** are available online (see below)
-- **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/launcher?type=Course&id=_173067_1)
-- **Course Github Repo** [is available here](https://github.com/jnear/cs295-secure-computation)
+- **Brightspace** for the course is available [here](TBA)
+- **Course Github Repo** [is available here](https://github.com/jnear/cs3990-secure-computation)
 - **Weekly exercises**
-  - [Download exercises here](https://github.com/jnear/cs295-secure-computation/tree/master/exercises)
-  - Turn in notebook files on Blackboard
+  - [Download exercises here](https://github.com/jnear/cs3990-secure-computation/tree/master/exercises)
+  - Turn in notebook files on Brightspace
 - **Homework assignments** 
-  - [Download notebooks here](https://github.com/jnear/cs295-secure-computation/tree/master/homework)
-  - Turn in notebook files on Blackboard
+  - [Download notebooks here](https://github.com/jnear/cs3990-secure-computation/tree/master/homework)
+  - Turn in notebook files on Brightspace
 - **Discussions** will take place on MS Teams
 - **Review Sheets** for exams:
-  - [Exam 1](https://github.com/jnear/cs295-secure-computation/tree/master/resources/review-exam1.md)
+  - [Exam 1](https://github.com/jnear/cs3990-secure-computation/tree/master/resources/review-exam1.md)
+  - [Exam 2](https://github.com/jnear/cs3990-secure-computation/tree/master/resources/review-exam2.md)
 
 ## Textbook & Other References
 
@@ -97,7 +99,7 @@ We will use the following textbooks for this course:
 In addition to these, we will reference a number of academic papers
 throughout the semester.
 
-A very cool [podcast recently appeared on Unexplainable](https://megaphone.link/VMP1399619625) about cryptography, including interviews with Whit Diffie, Martin Hellman, and Rafael Pass.
+A very cool [podcast on Unexplainable](https://megaphone.link/VMP1399619625) about cryptography, including interviews with Whit Diffie, Martin Hellman, and Rafael Pass.
 
 ## Policies
 
@@ -158,7 +160,7 @@ This course will use Python for examples and for programming
 assignments.  Students are expected to be proficient in Python
 programming.  Programming assignments will be distributed and turned
 in as Jupyter notebooks. [Click
-here](https://jnear.github.io/cs211-data-privacy/jupyter) for
+here](https://jnear.github.io/cs3110-data-privacy/jupyter) for
 instructions on installing Jupyter Notebook.
 
 **Assignment Submission**: Homework and in-class exercises will be
@@ -201,28 +203,35 @@ All academic integrity misconduct will be treated according to [UVM's Code of Ac
 The course will include a final project, completed in groups of 1-3 students.
 The final project will demonstrate your mastery of the concepts covered in this course.
 
-Click [here](https://jnear.github.io/cs295-secure-computation/projects) for more complete information.
+Click [here](https://jnear.github.io/cs3990-secure-computation/projects) for more complete information.
 
 ## CS Student Research Day & Extra Credit
 
-We will **not hold class** on **Friday, September 23**. I encourage you
+We will **not hold class** on **Friday, September 15**. I encourage you
 to attend [CS Student Research
-Day](https://www.uvm.edu/~jonaolap/csrd/2022.html) and learn about
+Day](TBA) and learn about
 the awesome research being done by CS students at UVM!
 
 - If you attend **two full sessions** of talks (~4 talks), **take
   brief notes on the talks you hear**, and **send the notes to me via
-  email by 11:59pm on September 23**, I will give **1% extra credit to
+  email by 11:59pm on September 16**, I will give **1% extra credit to
   your final grade in the course**
 
 ## Schedule
 
 Note that class will **not** be held on the following dates:
 
-- Monday, September 5 (Labor Day)
-- Friday, September 23 (please attend [CS Student Research Day](https://www.uvm.edu/~jonaolap/csrd/2022.html))
-- Friday, October 14 (Fall Recess)
-- November 21-25 (Thanksgiving)
+- Monday, September 4 (Labor Day)
+- Friday, September 15 (please attend [CS Student Research Day](TBD)
+- Friday, October 13 (Fall Recess)
+- November 20-24 (Thanksgiving)
+
+Note that class will be **asynchronous** on the following dates:
+
+- Wednesday, September 27
+- Friday, September 29
+- Friday, October 27
+- Monday, October 30
 
 Important due dates:
 
@@ -231,45 +240,45 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Wednesday, October 12, during class (Marsh Life Science 105)
-- Final exam: December 12, 10:30am - 11:30am (Marsh Life Science 105)
+- Midterm exam: Wednesday, October 11, during class (Perkins 003)
+- Final exam: December 12, 1:30pm - 2:30pm (Perkins 003)
 
 Homework dates:
 
-| Item                                                                                                  | Due Date |
-| -----------------------------------------------------------------------------------------:            | -------- |
-| [Homework 1](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_1.ipynb) | 9/12/22  |
-| [Homework 2](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_2.ipynb) | 9/19/22  |
-| [Homework 3](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_3.ipynb) | 9/26/22  |
-| [Homework 4](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_4.ipynb) | 10/3/22  |
-| [Homework 5](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_5.ipynb) | 10/17/22 |
-| [Homework 6](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_6.ipynb) | 10/24/22 |
-| [Homework 7](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_7.ipynb) | 10/31/22 |
-| [Homework 8](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_8.ipynb) | 11/7/22  |
-| [Homework 9](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_9.ipynb) | 11/14/22 |
-| Homework 10                                                                                           | 12/5/22  |
-| Project proposals                                                                                     | 11/18/22 |
-| Final project writeup/video/implementation                                                            | 12/12/22 |
+| Item                                                                                       | Due Date |
+| -----------------------------------------------------------------------------------------: | -------- |
+| Homework 1                                                                                 | 9/11/23  |
+| Homework 2                                                                                 | 9/18/23  |
+| Homework 3                                                                                 | 9/25/23  |
+| Homework 4                                                                                 | 10/2/23  |
+| Homework 5                                                                                 | 10/16/23 |
+| Homework 6                                                                                 | 10/23/23 |
+| Homework 7                                                                                 | 10/30/23 |
+| Homework 8                                                                                 | 11/6/23  |
+| Homework 9                                                                                 | 11/13/23 |
+| Homework 10                                                                                | 12/4/23  |
+| Project proposals                                                                          | 11/17/23 |
+| Final project writeup/video/implementation                                                 | 12/11/23 |
 
 Schedule of topics:
 
 | Week of... | Topics                                                                               | Reference  |
 | ---------: | ------------------------------------------------------------------------------------ | ---------  |
-| 8/29/22    | Intro to secure computation, additive secret sharing (no exercise)                   | PMPC Ch. 1 |
-| 9/5/22     | Adversaries and threat models (no class Monday)                                      | PMPC Ch. 2 |
-| 9/12/22    | Shamir secret sharing                                                                | PMPC Ch. 3 |
-| 9/19/22    | Shamir secret sharing operations; MPC for arithmetic circuits (no class Friday)      | PMPC Ch. 3 |
-| 9/26/22    | Circuits; MPC protocols for circuits                                                 | PMPC Ch. 3 |
-| 10/3/22    | GMW protocol; garbled circuits protocol; malicious MPC                               | PMPC Ch. 6 |
-| 10/10/22   | *Intermission*. Review (exam Wednesday; no class Friday; no exercise)                | None       |
-| 10/17/22   | Partially homomorphic cryptosystems: Paillier and El Gamal                           | TBA        |
-| 10/24/22   | Fully homomorphic encryption                                                         | TBA        |
-| 10/31/22   | Zero-knowledge proof                                                                 | PMPC Ch. 6 |
-| 11/7/22    | Distributed ledgers and blockchains                                                  | BCT Ch. 1  |
-| 11/14/22   | Bitcoin & its challenges                                                             | BCT Ch. 2  |
-| 11/21/22   | No class (Thanksgiving)                                                              | BCT        |
-| 11/28/22   | Blockchain applications: smart contracts, filesystems, etc                           | BCT Ch. 10 |
-| 12/5/22    | Open challenges; review                                                              |            |
+| 8/28/23    | Intro to secure computation, additive secret sharing (no exercise)                   | PMPC Ch. 1 |
+| 9/4/23     | Adversaries and threat models (no class Monday)                                      | PMPC Ch. 2 |
+| 9/11/23    | Shamir secret sharing (no class Friday)                                              | PMPC Ch. 3 |
+| 9/18/23    | MPC for arithmetic circuits                                                          | PMPC Ch. 3 |
+| 9/25/23    | Circuit representations; MPC protocols for circuits                                  | PMPC Ch. 3 |
+| 10/2/23    | GMW protocol; garbled circuits protocol; malicious MPC                               | PMPC Ch. 6 |
+| 10/9/23    | *Intermission*. Review (exam Wednesday; no class Friday; no exercise)                | None       |
+| 10/16/23   | Partially homomorphic cryptosystems: Paillier and El Gamal                           | TBA        |
+| 10/23/23   | Fully homomorphic encryption                                                         | TBA        |
+| 10/30/23   | Zero-knowledge proof                                                                 | PMPC Ch. 6 |
+| 11/6/23    | Distributed ledgers and blockchains                                                  | BCT Ch. 1  |
+| 11/13/23   | Bitcoin & its challenges                                                             | BCT Ch. 2  |
+| 11/20/23   | No class (Thanksgiving)                                                              | BCT        |
+| 11/27/23   | Blockchain applications: smart contracts, filesystems, etc                           | BCT Ch. 10 |
+| 12/4/23    | Open challenges; review                                                              |            |
 
 # Accommodations
 
