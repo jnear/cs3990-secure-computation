@@ -1,4 +1,4 @@
-# Exam 1 Topic List
+# Exam 1 Topic List (Fall 2022)
 
 ## Models of Secure Computation
 
