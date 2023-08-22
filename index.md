@@ -66,7 +66,9 @@ By the end of this course, you will be able to:
 ## Resources
 
 - **Course textbooks** are available online (see below)
-- **Brightspace** for the course is available [here](TBA)
+- **Brightspace** for the course:
+  - [CS 3990A (undergrad section)](https://brightspace.uvm.edu/d2l/home/31605)
+  - [CS 5990E (graduate section)](https://brightspace.uvm.edu/d2l/home/31607)
 - **Course Github Repo** [is available here](https://github.com/jnear/cs3990-secure-computation)
 - **Weekly exercises**
   - [Download exercises here](https://github.com/jnear/cs3990-secure-computation/tree/master/exercises)
@@ -164,12 +166,12 @@ here](https://jnear.github.io/cs3110-data-privacy/jupyter) for
 instructions on installing Jupyter Notebook.
 
 **Assignment Submission**: Homework and in-class exercises will be
-turned in via Blackboard.
+turned in via Brightspace.
 
 To submit an assignment:
 
 1. Complete the released Jupyter Notebook by filling in answers to all the questions
-2. Submit the notebook file (the .ipynb file) as your solution on Blackboard
+2. Submit the notebook file (the .ipynb file) as your solution on Brightspace
 
 *Please* do not change the name of the .ipynb file. This makes the
 grading process more difficult.
