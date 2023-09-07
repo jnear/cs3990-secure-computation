@@ -211,10 +211,10 @@ Click [here](https://jnear.github.io/cs3990-secure-computation/projects) for mor
 
 We will **not hold class** on **Friday, September 15**. I encourage you
 to attend [CS Student Research
-Day](TBA) and learn about
+Day](https://go.uvm.edu/6v091) and learn about
 the awesome research being done by CS students at UVM!
 
-- If you attend **two full sessions** of talks (~4 talks), **take
+- If you attend **one full session** of talks (or 4 talks total), **take
   brief notes on the talks you hear**, and **send the notes to me via
   email by 11:59pm on September 16**, I will give **1% extra credit to
   your final grade in the course**
