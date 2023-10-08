@@ -1,4 +1,4 @@
-# Exam 1 Topic List (Fall 2022)
+# Exam 1 Topic List (Fall 2023)
 
 ## Models of Secure Computation
 
@@ -50,4 +50,5 @@
   - Strengths and weaknesses of each
 - BGW protocol (arithmetic circuits, `n` parties; Shamir secret sharing + degree reduction)
 - GMW protocol (binary circuits, 2 parties; additive secret sharing + OT)
+- Yao's Garbled Circuit protocol (binary circuits, 2 parties; wire labels + garbled tables)
 - Strengths and weaknesses of each
