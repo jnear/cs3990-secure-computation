@@ -1,4 +1,4 @@
-# Final Project Information (Fall 2022)
+# Final Project Information (Fall 2023)
 
 ## Schedule & Requirements
 
@@ -25,12 +25,12 @@ The goal of the final project is for you to build a complete system that accompl
 
 The final project is worth 10% of your final grade. The schedule for final project deliverables, and the contribution of each one to the grade you receive for the final project, are as follows:
 
-| Deliverable                | Due Date                      | Grade Percent | Turn In    |
-| ---------------------:     | ----------------------------- | ------------- | ---------- |
-| Project Proposal           | 11/18/22 by 11:59pm           | 10%           | Blackboard |
-| Project Presentation Video | 12/12/22 by 11:59pm           | 30%           | Blackboard |
-| Implementation             | 12/12/22 at 11:59pm           | 40%           | Blackboard |
-| Project Writeup            | 12/12/22 at 11:59pm           | 20%           | Blackboard |
+| Deliverable                | Due Date                      | Grade Percent | Turn In     |
+| ---------------------:     | ----------------------------- | ------------- | ----------  |
+| Project Proposal           | 11/17/23 by 11:59pm           | 10%           | Brightspace |
+| Project Presentation Video | 12/11/23 by 11:59pm           | 30%           | Brightspace |
+| Implementation             | 12/11/23 at 11:59pm           | 40%           | Brightspace |
+| Project Writeup            | 12/11/23 at 11:59pm           | 20%           | Brightspace |
 
 
 ### Graduate Students

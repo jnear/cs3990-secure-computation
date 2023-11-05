@@ -291,7 +291,7 @@ Homework dates:
 | [Homework 6](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_6.ipynb) | 10/23/23 |
 | [Homework 7](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_7.ipynb) | 11/1/23 |
 | [Homework 8](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_8.ipynb) | 11/6/23  |
-|                                                                                            Homework 9 | 11/13/23 |
+| [Homework 9](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_9.ipynb) | 11/13/23 |
 |                                                                                           Homework 10 | 12/4/23  |
 |                                                                                     Project proposals | 11/17/23 |
 |                                                            Final project writeup/video/implementation | 12/11/23 |
