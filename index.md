@@ -281,20 +281,20 @@ Exam dates:
 
 Homework dates:
 
-|                                                                                                  Item | Due Date |
-|------------------------------------------------------------------------------------------------------:|----------|
-| [Homework 1](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_1.ipynb) | 9/11/23  |
-| [Homework 2](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_2.ipynb) | 9/18/23  |
-| [Homework 3](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_3.ipynb) | 9/25/23  |
-| [Homework 4](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_4.ipynb) | 10/2/23  |
-| [Homework 5](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_5.ipynb) | 10/16/23 |
-| [Homework 6](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_6.ipynb) | 10/23/23 |
-| [Homework 7](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_7.ipynb) | 11/1/23 |
-| [Homework 8](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_8.ipynb) | 11/6/23  |
-| [Homework 9](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_9.ipynb) | 11/13/23 |
-|                                                                                           Homework 10 | 12/4/23  |
-|                                                                                     Project proposals | 11/17/23 |
-|                                                            Final project writeup/video/implementation | 12/11/23 |
+|                                                                                                    Item | Due Date |
+|--------------------------------------------------------------------------------------------------------:|----------|
+| [Homework 1](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_1.ipynb)   | 9/11/23  |
+| [Homework 2](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_2.ipynb)   | 9/18/23  |
+| [Homework 3](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_3.ipynb)   | 9/25/23  |
+| [Homework 4](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_4.ipynb)   | 10/2/23  |
+| [Homework 5](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_5.ipynb)   | 10/16/23 |
+| [Homework 6](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_6.ipynb)   | 10/23/23 |
+| [Homework 7](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_7.ipynb)   | 11/1/23  |
+| [Homework 8](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_8.ipynb)   | 11/6/23  |
+| [Homework 9](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_9.ipynb)   | 11/13/23 |
+| [Homework 10](https://github.com/jnear/cs3990-secure-computation/blob/main/homework/CS3990_HW_10.ipynb) | 12/4/23  |
+|                                                                                     Project proposals   | 11/17/23 |
+|                                                            Final project writeup/video/implementation   | 12/11/23 |
 
 Schedule of topics:
 
